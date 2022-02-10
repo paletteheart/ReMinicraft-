@@ -6,7 +6,7 @@ The biggest changes are with the entities, with Items being next, and the Tiles 
 
 To install this texture pack, go to %appdata%\playminicraft\mods\Minicraft_Plus\TexturePacks and place the zip file in there. Then, to activate it within the game, in the Main Menu (*not* in-game) go to Options>Texture Packs>ReMinicraft+.zip
 
-I've also created a skin for you to use that matches the rest of the entities in ReMinicraft+ that I've delicately named "Paulveralls." To install this skin in 2.1.0, go to %appdata%\playminicraft\mods\Minicraft_Plus\skins and place the Paulveralls.png file. To activate it within game, in the Main Menu go to Skins>Paulveralls. I don't mind if you use or edit this skin for personal use.
+I've also created a skin for you to use that matches the rest of the entities in ReMinicraft+ that I've delicately named "Paulveralls," as well as a version with a cape. To install this skin in 2.1.0, go to %appdata%\playminicraft\mods\Minicraft_Plus\skins and place the Paulveralls.png (or Caped Paulveralls.png) file from the ReMinicraft+ archive. To activate it within game, in the Main Menu go to Skins>Paulveralls. I don't mind if you use or edit this skin for personal use.
 
 ## Some previews!
 
