@@ -13,7 +13,7 @@ I've also created a skin for you to use that matches the rest of the entities in
 
 Entities!
 
-![entities-preview](https://user-images.githubusercontent.com/37089149/153486368-0f86d82a-719a-4c21-8964-404f0d7508ac.png)
+![entities-preview](https://user-images.githubusercontent.com/37089149/153536273-8bc68c95-6320-427f-b168-42705860c486.png)
 
 Some Items!
 
