@@ -7,7 +7,7 @@ In this texture pack I made a specific change to the Knights, specifically by gi
 
 To install this texture pack, first download this repository as a ZIP. Next, go to `%appdata%\playminicraft\mods\Minicraft_Plus\TexturePacks` and place the ReMinicraft+ archive file in there. Then, to activate it within the game, in the Main Menu (*not* in-game) go to `Options>Texture Packs>ReMinicraft+.zip`.
 
-I've also created a skin for you to use that matches the rest of the entities in ReMinicraft+ that I've delicately named "Paulveralls," as well as a version with a cape. To install this skin in [2.1.0](https://github.com/MinicraftPlus/minicraft-plus-revived/releases/tag/v2.1.0-dev1), go to `%appdata%\playminicraft\mods\Minicraft_Plus\skins` and place the Paulveralls.png (or Caped Paulveralls.png) file from the ReMinicraft+ archive in there. To activate it within game, in the Main Menu go to `Skins>Paulveralls`. I don't mind if you use or edit this skin for personal use.
+I've also created a skin for you to use that matches the rest of the entities in ReMinicraft+ that I've 'cleverly' named "Paulveralls," as well as a version with a cape. To install this skin in [2.1.0](https://github.com/MinicraftPlus/minicraft-plus-revived/releases/tag/v2.1.0-dev1), go to `%appdata%\playminicraft\mods\Minicraft_Plus\skins` and place the Paulveralls.png (or Caped Paulveralls.png) file from the ReMinicraft+ archive in there. To activate it within game, in the Main Menu go to `Skins>Paulveralls`. I don't mind if you use or edit this skin for personal use.
 
 ## Some previews!
 
